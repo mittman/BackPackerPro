@@ -3,8 +3,8 @@ Android app prototype for BackPackerPro
 
 ## NOTE
 Must add API key to 
-`app/src/debug/res/values/google_maps_api.xml`
-`app/src/release/res/values/google_maps_api.xml`
+- `app/src/debug/res/values/google_maps_api.xml`
+- `app/src/release/res/values/google_maps_api.xml`
 
 ### Sources
 - [Google Maps API key](https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&reusekey=true)
